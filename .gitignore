@@ -1,0 +1,14 @@
+/target/
+/.idea/
+/*.iml
+/chromedriver
+/geckodriver
+/operadriver
+/*.svg
+/*.png
+/*.properties
+/svgs/
+/out/
+/*.html
+/*.exe
+/*.log
