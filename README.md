@@ -9,7 +9,7 @@
 
 Программа работает через комнадную строку, ниже перечислены параметры запуска программы: 
 
-Usage: [keys] <path_to_svg_file> <path_to_base_png_file>
+Usage: `[keys] <path_to_svg_file> <path_to_base_png_file>`
 
 Overview:
 
